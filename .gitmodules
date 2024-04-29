@@ -1,3 +1,6 @@
 [submodule "RC4_Cipher"]
 	path = RC4_Cipher
 	url = https://github.com/DiegoAndresRa/RC4_Cipher
+[submodule "Hill_Chipher"]
+	path = Hill_Chipher
+	url = https://github.com/DiegoAndresRa/Hill_Cipher
